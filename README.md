@@ -1,5 +1,7 @@
 # Approaches to Principal Component Analysis
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayarghoshroy/PCA-Approaches/blob/master/PCA_approaches.ipynb)
+
 - PCA using eigenvectors of the data covariance matrix
 
 - PCA using gradient descent
