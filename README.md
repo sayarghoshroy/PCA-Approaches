@@ -12,4 +12,6 @@
 
 #### Using the full MNIST training and testing sets
 
+##### Go [here](https://www.kaggle.com/oddrationale/mnist-in-csv) for MNIST in a easy-to-use CSV format.
+
 ---
