@@ -1,10 +1,13 @@
 # Approaches to Principal Component Analysis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayarghoshroy/PCA-Approaches/blob/master/PCA_approaches.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayarghoshroy/PCA-Approaches/blob/master/PCA_approaches.ipynb) On MNIST
 
-- PCA using eigenvectors of the data covariance matrix
+- PCA using eigenvectors of the data covariance matrix:
 
-- PCA using gradient descent
+    1. Using Linear Data
+    2. On MNIST Dataset
+
+- PCA for Complete MNIST Dataset using gradient descent:
 
     1. without regularization
     2. with L1 regularization
