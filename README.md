@@ -1,6 +1,8 @@
 # Approaches to Principal Component Analysis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayarghoshroy/PCA-Approaches/blob/master/PCA_approaches.ipynb) On MNIST
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayarghoshroy/PCA-Approaches/blob/master/PCA_straight_line.ipynb) <b>Linear Data</b>
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayarghoshroy/PCA-Approaches/blob/master/PCA_approaches.ipynb) <b>MNIST</b>
 
 - PCA using eigenvectors of the data covariance matrix:
 
